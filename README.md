@@ -144,7 +144,8 @@
         <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat&logo=chainlink&logoColor=white" alt="LangChain" />
       </p>
       <p>
-        <a href="https://github.com/Suraj881raftaar/desi-nomad-trails"><b>📂 Repository</b></a>
+        <a href="https://github.com/Suraj881raftaar/Desi-nomad-"><b>📂 Repository</b></a> | 
+        <span><b>🌐 Demo: Coming Soon</b></span>
         <br />
         <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status" />
       </p>
@@ -162,7 +163,8 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <p>
-        <a href="https://github.com/Suraj881raftaar/ai-school-surveillance"><b>📂 Repository</b></a>
+        <a href="https://github.com/Suraj881raftaar/AI-School-Surveillance-System"><b>📂 Repository</b></a> | 
+        <span><b>🌐 Demo: Coming Soon</b></span>
         <br />
         <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status" />
       </p>
@@ -180,7 +182,8 @@
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
       <p>
-        <a href="https://github.com/Suraj881raftaar/library-management-system"><b>📂 Repository</b></a>
+        <span><b>📂 Repository: Coming Soon</b></span> | 
+        <span><b>🌐 Demo: Desktop App Only</b></span>
         <br />
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
       </p>
@@ -195,7 +198,8 @@
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
       <p>
-        <a href="https://github.com/Suraj881raftaar/chat-world"><b>📂 Repository</b></a>
+        <span><b>📂 Repository: Coming Soon</b></span> | 
+        <span><b>🌐 Demo: Coming Soon</b></span>
         <br />
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
       </p>
