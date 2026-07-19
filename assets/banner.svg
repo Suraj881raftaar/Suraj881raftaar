@@ -1,0 +1,198 @@
+<svg width="850" height="320" viewBox="0 0 850 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stylesheet -->
+  <style>
+    .title {
+      font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 800;
+      font-size: 46px;
+      fill: url(#textGlow);
+      letter-spacing: -0.03em;
+    }
+    .subtitle {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 500;
+      font-size: 18px;
+      fill: #E2E8F0;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+    .badge {
+      font-family: 'JetBrains Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #A7F3D0;
+    }
+    .badge-bg {
+      fill: #064E3B;
+      stroke: #059669;
+      stroke-width: 1px;
+    }
+    .accent-text {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      fill: #94A3B8;
+      font-weight: 400;
+    }
+    .glow-dot {
+      animation: pulse 4s infinite alternate;
+    }
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      100% { opacity: 0.9; }
+    }
+  </style>
+
+  <!-- Definitions -->
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0B0F19" />
+      <stop offset="100%" stop-color="#02040A" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="cyanGlow" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="85%" cy="70%" r="55%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="accentGlow" cx="50%" cy="50%" r="30%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="40%" stop-color="#F1F5F9" />
+      <stop offset="70%" stop-color="#67E8F9" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.15" />
+      <stop offset="30%" stop-color="#FFFFFF" stop-opacity="0.02" />
+      <stop offset="70%" stop-color="#FFFFFF" stop-opacity="0.02" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1" />
+      <circle cx="40" cy="40" r="1" fill="#FFFFFF" fill-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="850" height="320" fill="url(#bgGrad)" rx="16" />
+
+  <!-- Grid Overlay -->
+  <rect width="850" height="320" fill="url(#grid)" rx="16" />
+
+  <!-- Ambient Glow Circles -->
+  <circle cx="150" cy="100" r="280" fill="url(#cyanGlow)" />
+  <circle cx="700" cy="220" r="320" fill="url(#violetGlow)" />
+  <circle cx="425" cy="160" r="200" fill="url(#accentGlow)" />
+
+  <!-- Decorative Network Nodes/Lines -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1.5">
+    <line x1="80" y1="120" x2="200" y2="60" />
+    <line x1="200" y1="60" x2="320" y2="100" />
+    <line x1="80" y1="120" x2="120" y2="240" />
+    <line x1="120" y1="240" x2="320" y2="220" />
+    <line x1="320" y1="220" x2="320" y2="100" />
+    
+    <line x1="530" y1="80" x2="650" y2="120" />
+    <line x1="650" y1="120" x2="770" y2="60" />
+    <line x1="650" y1="120" x2="720" y2="240" />
+    <line x1="720" y1="240" x2="580" y2="220" />
+  </g>
+
+  <!-- Node Dots -->
+  <g fill-opacity="0.6">
+    <circle cx="80" cy="120" r="3" fill="#06B6D4" />
+    <circle cx="200" cy="60" r="4" fill="#3B82F6" />
+    <circle cx="320" cy="100" r="3" fill="#8B5CF6" />
+    <circle cx="120" cy="240" r="3.5" fill="#67E8F9" />
+    <circle cx="320" cy="220" r="4" fill="#A78BFA" />
+
+    <circle cx="530" cy="80" r="3" fill="#F472B6" />
+    <circle cx="650" cy="120" r="4.5" fill="#EC4899" class="glow-dot" />
+    <circle cx="770" cy="60" r="3" fill="#8B5CF6" />
+    <circle cx="720" cy="240" r="4" fill="#3B82F6" />
+    <circle cx="580" cy="220" r="3" fill="#06B6D4" />
+  </g>
+
+  <!-- Glassmorphic Card Container -->
+  <rect x="35" y="35" width="780" height="250" rx="12" fill="#0B132B" fill-opacity="0.4" stroke="url(#borderGrad)" stroke-width="1.5" style="backdrop-filter: blur(10px);" />
+
+  <!-- Decorative Corner Brackets -->
+  <path d="M 50 60 L 50 50 L 60 50" stroke="#06B6D4" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M 800 60 L 800 50 L 790 50" stroke="#8B5CF6" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M 50 260 L 50 270 L 60 270" stroke="#8B5CF6" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <path d="M 800 260 L 800 270 L 790 270" stroke="#06B6D4" stroke-width="2.5" stroke-linecap="round" fill="none" />
+
+  <!-- Banner Text Details -->
+  <!-- Name -->
+  <text x="70" y="115" class="title">SURAJ YADAV</text>
+
+  <!-- Subtitle / Roles -->
+  <text x="70" y="155" class="subtitle">AI Engineer • Full-Stack Developer • Adventure Explorer</text>
+
+  <!-- Tech tags / Keywords -->
+  <g transform="translate(70, 185)">
+    <!-- Tag 1: AI Agents -->
+    <rect x="0" y="0" width="85" height="24" rx="12" class="badge-bg" />
+    <text x="42.5" y="16" text-anchor="middle" class="badge">AI Agents</text>
+
+    <!-- Tag 2: RAG -->
+    <g transform="translate(95, 0)">
+      <rect x="0" y="0" width="55" height="24" rx="12" class="badge-bg" />
+      <text x="27.5" y="16" text-anchor="middle" class="badge">RAG</text>
+    </g>
+
+    <!-- Tag 3: FastAPI -->
+    <g transform="translate(160, 0)">
+      <rect x="0" y="0" width="75" height="24" rx="12" class="badge-bg" />
+      <text x="37.5" y="16" text-anchor="middle" class="badge">FastAPI</text>
+    </g>
+
+    <!-- Tag 4: LangChain -->
+    <g transform="translate(245, 0)">
+      <rect x="0" y="0" width="90" height="24" rx="12" class="badge-bg" />
+      <text x="45" y="16" text-anchor="middle" class="badge">LangChain</text>
+    </g>
+
+    <!-- Tag 5: Cloud -->
+    <g transform="translate(345, 0)">
+      <rect x="0" y="0" width="65" height="24" rx="12" class="badge-bg" />
+      <text x="32.5" y="16" text-anchor="middle" class="badge">Cloud</text>
+    </g>
+
+    <!-- Tag 6: Trekking -->
+    <g transform="translate(420, 0)">
+      <rect x="0" y="0" width="85" height="24" rx="12" class="badge-bg" />
+      <text x="42.5" y="16" text-anchor="middle" class="badge">Trekking</text>
+    </g>
+  </g>
+
+  <!-- Interactive Terminal/Info prompt at the bottom -->
+  <g transform="translate(70, 245)">
+    <!-- Terminal prompt icon -->
+    <path d="M 0 0 L 6 5 L 0 10" stroke="#06B6D4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <line x1="9" y1="10" x2="19" y2="10" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" />
+    <text x="28" y="9" class="accent-text">pip install future-ai-solutions --upgrade</text>
+  </g>
+
+  <!-- Top Right Stats Indicator -->
+  <g transform="translate(720, 55)" opacity="0.8">
+    <circle cx="10" cy="10" r="6" fill="#10B981" />
+    <circle cx="10" cy="10" r="10" stroke="#10B981" stroke-width="1.5" stroke-opacity="0.5" class="glow-dot" />
+    <text x="26" y="14" font-family="'JetBrains Mono', monospace" font-size="11" fill="#10B981" font-weight="600">ACTIVE</text>
+  </g>
+</svg>

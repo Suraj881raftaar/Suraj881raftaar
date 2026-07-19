@@ -1,0 +1,62 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs at 00:00 every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update Daily Quote
+        run: python scripts/update_quote.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "docs: update daily quote [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+  update-activity:
+    needs: update-quote
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+      - name: Update Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "docs: update recent github activity"
+
+  update-blogs:
+    needs: update-activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+      - name: Pull RSS Feed Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Replace with your actual RSS feed URL (e.g. Medium, Dev.to, Hashnode, personal blog)
+          feed_list: "https://medium.com/feed/@surajyadav"

@@ -1,0 +1,47 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#EF4444" />
+    </linearGradient>
+    <linearGradient id="gridGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="200" rx="8" fill="url(#bgGrad)" stroke="#334155" stroke-width="1.5" />
+  
+  <!-- Subtle Grid overlay -->
+  <path d="M 0 40 L 400 40 M 0 80 L 400 80 M 0 120 L 400 120 M 0 160 L 400 160 M 80 0 L 80 200 M 160 0 L 160 200 M 240 0 L 240 200 M 320 0 L 320 200" stroke="url(#gridGrad)" stroke-width="1" />
+
+  <!-- Mountain Illustration -->
+  <path d="M 50 160 L 120 70 L 190 160 Z" fill="#334155" fill-opacity="0.5" />
+  <path d="M 140 160 L 220 50 L 300 160 Z" fill="url(#accentGrad)" fill-opacity="0.2" />
+  <path d="M 140 160 L 220 50 L 300 160 Z" stroke="url(#accentGrad)" stroke-width="2" stroke-linejoin="round" />
+  
+  <!-- Mountain Snow Caps -->
+  <path d="M 204 72 L 220 50 L 236 72 L 227 65 L 220 72 L 213 65 Z" fill="#FFFFFF" />
+
+  <!-- Trail / Route -->
+  <path d="M 80 170 C 130 180, 200 130, 260 170 C 300 190, 320 160, 350 150" stroke="#F59E0B" stroke-width="3" stroke-dasharray="6,4" stroke-linecap="round" fill="none" />
+  <circle cx="350" cy="150" r="5" fill="#EF4444" />
+  <circle cx="80" cy="170" r="5" fill="#F59E0B" />
+
+  <!-- Compass Graphic -->
+  <g transform="translate(340, 50)" stroke="#94A3B8" stroke-width="1.5">
+    <circle cx="0" cy="0" r="22" fill="#1E293B" />
+    <circle cx="0" cy="0" r="18" fill="none" stroke-dasharray="2,2" />
+    <path d="M 0 -14 L 4 0 L 0 14 L -4 0 Z" fill="#EF4444" stroke="#EF4444" />
+    <path d="M 0 0 L 4 0 L 0 14 L -4 0 Z" fill="#94A3B8" stroke="#94A3B8" />
+  </g>
+
+  <!-- Title Text -->
+  <text x="30" y="55" font-family="'Inter', sans-serif" font-weight="800" font-size="22" fill="#FFFFFF" letter-spacing="-0.02em">Desi Nomad Trails</text>
+  <text x="30" y="80" font-family="'Inter', sans-serif" font-weight="500" font-size="12" fill="#F59E0B" letter-spacing="0.05em" text-transform="uppercase">Trekking &amp; Travel Tracker</text>
+</svg>
