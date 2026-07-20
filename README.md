@@ -315,11 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-
-> **"The best way to predict the future is to invent it."**
+> **"Computers are useless. They can only give you answers."**
 >
-> *— Alan Kay*
-
+> *— Pablo Picasso*
 <!-- DAILY-QUOTE:END -->
 
 ---
