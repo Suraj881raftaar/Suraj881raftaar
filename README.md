@@ -145,7 +145,7 @@
       </p>
       <p>
         <a href="https://github.com/Suraj881raftaar/Desi-nomad-"><b>📂 Repository</b></a> | 
-        <span><b>🌐 Demo: Coming Soon</b></span>
+        <a href="https://desi-nomad.pages.dev/admin/"><b>🌐 Live Demo</b></a>
         <br />
         <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status" />
       </p>
@@ -199,7 +199,7 @@
       </p>
       <p>
         <span><b>📂 Repository: Coming Soon</b></span> | 
-        <span><b>🌐 Demo: Coming Soon</b></span>
+        <a href="https://chatworld.suraj8881raftaar.workers.dev/login"><b>🌐 Live Demo</b></a>
         <br />
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
       </p>
