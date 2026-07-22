@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Simplicity is the soul of efficiency."**
+> **"Computers are useless. They can only give you answers."**
 >
-> *— Austin Freeman*
+> *— Pablo Picasso*
 <!-- DAILY-QUOTE:END -->
 
 ---
