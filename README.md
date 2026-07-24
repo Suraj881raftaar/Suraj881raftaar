@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Simplicity is the soul of efficiency."**
+> **"Software is a great combination between artistry and engineering."**
 >
-> *— Austin Freeman*
+> *— Bill Gates*
 <!-- DAILY-QUOTE:END -->
 
 ---
