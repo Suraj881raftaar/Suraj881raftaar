@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Software is a great combination between artistry and engineering."**
+> **"The analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."**
 >
-> *— Bill Gates*
+> *— Ada Lovelace*
 <!-- DAILY-QUOTE:END -->
 
 ---
