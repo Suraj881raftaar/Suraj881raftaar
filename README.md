@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"The analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."**
+> **"Artificial intelligence is growing up fast, as are robots whose ability to manual partner with humans is improving rapidly."**
 >
-> *— Ada Lovelace*
+> *— Stephen Hawking*
 <!-- DAILY-QUOTE:END -->
 
 ---
