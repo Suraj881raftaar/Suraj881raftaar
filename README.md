@@ -315,7 +315,7 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Artificial intelligence is growing up fast, as are robots whose ability to manual partner with humans is improving rapidly."**
+> **"Intelligence is the ability to adapt to change."**
 >
 > *— Stephen Hawking*
 <!-- DAILY-QUOTE:END -->
