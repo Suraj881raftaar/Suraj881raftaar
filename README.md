@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Intelligence is the ability to adapt to change."**
+> **"The analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."**
 >
-> *— Stephen Hawking*
+> *— Ada Lovelace*
 <!-- DAILY-QUOTE:END -->
 
 ---
