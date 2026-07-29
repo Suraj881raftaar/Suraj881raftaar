@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"The analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."**
+> **"Simplicity is the soul of efficiency."**
 >
-> *— Ada Lovelace*
+> *— Austin Freeman*
 <!-- DAILY-QUOTE:END -->
 
 ---
