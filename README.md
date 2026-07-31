@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"A code is like love, write it with support, hope, and absolute trust."**
+> **"Simplicity is the soul of efficiency."**
 >
-> *— Anonymous*
+> *— Austin Freeman*
 <!-- DAILY-QUOTE:END -->
 
 ---
