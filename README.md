@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"First, solve the problem. Then, write the code."**
+> **"A code is like love, write it with support, hope, and absolute trust."**
 >
-> *— John Johnson*
+> *— Anonymous*
 <!-- DAILY-QUOTE:END -->
 
 ---
