@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"A code is like love, write it with support, hope, and absolute trust."**
+> **"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."**
 >
-> *— Anonymous*
+> *— Edsger W. Dijkstra*
 <!-- DAILY-QUOTE:END -->
 
 ---
