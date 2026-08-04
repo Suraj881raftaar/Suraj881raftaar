@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."**
+> **"The only way to do great work is to love what you do."**
 >
-> *— Edsger W. Dijkstra*
+> *— Steve Jobs*
 <!-- DAILY-QUOTE:END -->
 
 ---
