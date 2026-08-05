@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"The only way to do great work is to love what you do."**
+> **"The best way to predict the future is to invent it."**
 >
-> *— Steve Jobs*
+> *— Alan Kay*
 <!-- DAILY-QUOTE:END -->
 
 ---
