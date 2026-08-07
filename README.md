@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"The best way to predict the future is to invent it."**
+> **"Talk is cheap. Show me the code."**
 >
-> *— Alan Kay*
+> *— Linus Torvalds*
 <!-- DAILY-QUOTE:END -->
 
 ---
