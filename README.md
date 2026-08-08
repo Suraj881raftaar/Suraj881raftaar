@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Talk is cheap. Show me the code."**
+> **"Artificial intelligence is growing up fast, as are robots whose ability to manual partner with humans is improving rapidly."**
 >
-> *— Linus Torvalds*
+> *— Stephen Hawking*
 <!-- DAILY-QUOTE:END -->
 
 ---
