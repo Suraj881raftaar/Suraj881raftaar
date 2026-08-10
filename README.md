@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Artificial intelligence is growing up fast, as are robots whose ability to manual partner with humans is improving rapidly."**
+> **"An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."**
 >
-> *— Stephen Hawking*
+> *— Stuart Russell & Peter Norvig*
 <!-- DAILY-QUOTE:END -->
 
 ---
