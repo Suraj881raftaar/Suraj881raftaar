@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."**
+> **"Talk is cheap. Show me the code."**
 >
-> *— Stuart Russell & Peter Norvig*
+> *— Linus Torvalds*
 <!-- DAILY-QUOTE:END -->
 
 ---
