@@ -315,9 +315,9 @@
 ## 💭 Coding Inspiration
 
 <!-- DAILY-QUOTE:START -->
-> **"Talk is cheap. Show me the code."**
+> **"Computers are useless. They can only give you answers."**
 >
-> *— Linus Torvalds*
+> *— Pablo Picasso*
 <!-- DAILY-QUOTE:END -->
 
 ---
