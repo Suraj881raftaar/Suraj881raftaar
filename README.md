@@ -1,26 +1,33 @@
-<!--
-  READ ME FIRST: Welcome to your new elite GitHub Profile!
-  To customize this profile, replace all placeholders like [Suraj881raftaar] or [YOUR_EMAIL] with your actual details.
--->
-
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Suraj Yadav Banner" />
+
+# Hi, I'm Suraj Yadav 👋
+
+### IT Support | Technical Support | Troubleshooting | BCA Graduate
+
+I’m building my career in **IT and Technical Support**, with hands-on experience in hardware/software troubleshooting, Windows systems, networking, end-user support, technical documentation and computerized operations.
+
+I enjoy finding practical solutions to technical problems, learning new technologies and building projects to understand how systems work.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj881raftaar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Suraj881raftaar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suraj8881raftaar@gmail.com)
+
 </div>
 
-<br />
+---
 
-<div align="center">
-  
-  # Hi there, I'm Suraj Yadav 👋
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=67E8F9&background=00000000&center=true&vCenter=true&width=550&lines=AI+Engineer;Full-Stack+Developer;Adventure+Explorer;Continuous+Learner" alt="Typing SVG" />
-  </a>
+## 👨‍💻 About Me
 
-  **Building the future of Autonomous Agents, Semantic Search systems, and responsive Full-Stack applications.**
-
-  [![GitHub followers](https://img.shields.io/github/followers/Suraj881raftaar?style=for-the-badge&color=8B5CF6&labelColor=1E1B4B)](https://github.com/Suraj881raftaar)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://linkedin.com/in/Suraj881raftaar)
+- 🎓 **BCA Graduate** — Mahatma Gandhi Kashi Vidyapeeth University
+- 🛠️ **IT Technical Support Executive Certified**
+- 🔐 **Network Security Engineer Certified**
+- 💻 Hands-on experience with **hardware and software troubleshooting**
+- 🪟 Experience with **Windows operating systems and PC support**
+- 🌐 Familiar with **LAN, TCP/IP, IP configuration and Wi-Fi troubleshooting**
+- 🖨️ Experience with **printer installation and troubleshooting**
+- 📊 Experience using **MS Excel and computerized operational systems**
+- 🗃️ Working knowledge of **SAP and technical/operational documentation**
+- 🧠 Interested in **IT Support, Technical Support, Desktop Support and Service Desk  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://linkedin.com/in/Suraj881raftaar)
   [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1E293B)](https://x.com/Suraj881raftaar)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B)](mailto:your.email@example.com)
 
